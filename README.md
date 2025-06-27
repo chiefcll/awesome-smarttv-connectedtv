@@ -36,6 +36,7 @@ Your guide to the best resources, tools, and libraries for Smart TV and Connecte
 - [React Native](https://reactnative.dev/) - Support for mobile, Android TV, Apple TV & Smart TV platforms through React Native for Web
 - [Flutter](https://flutter.dev/) - Framework with unofficial or third-party support for TV platforms
 - [LightningJS](https://lightningjs.io/) - Dedicated framework for building TV applications
+- [LightningJS with SolidJS](https://lightningtv.dev/) - Dedicated framework for building TV applications with SolidJS
 
 ## Framework Libraries
 - [Flutter for Tizen](https://github.com/flutter-tizen/flutter-tizen) - Flutter support for Tizen
